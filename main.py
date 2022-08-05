@@ -3,7 +3,8 @@ from bottle import Bottle
 from FeatureCloud.app.api.http_ctrl import api_server
 from FeatureCloud.app.api.http_web import web_server
 from FeatureCloud.app.engine.app import app
-import tutorials.hello_world.app
+from tutorials.communicate import states
+
 
 server = Bottle()
 
