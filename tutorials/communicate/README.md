@@ -2,4 +2,4 @@
 
 
 
-![state diagram](diagram.png)
+![state diagram](state_diagram.png)
