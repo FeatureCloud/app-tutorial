@@ -14,6 +14,12 @@ architecture in our paper:
 
 [The FeatureCloud AI Store for Federated Learning in Biomedicine and Beyond](https://arxiv.org/abs/2105.05734) [[1]](#1).
 
+### tutorials & stories
+For every tutorial there a story published at [medium](https://medium.com/developing-federated-applications-in-featurecloud).
+We encourage newcomers to FeatureCloud, read the stories and run the tutorial together.
+- [hello world](tutorials/hello_world): [Create your first FeatureCloud app](https://medium.com/developing-federated-applications-in-featurecloud/create-your-first-featurecloud-app-daced512eb45)
+- [communicate](tutorials/communicate): [Communicate data across clients](https://medium.com/developing-federated-applications-in-featurecloud/communicate-data-across-clients-77b4d9fc8258)
+
 ### Run tutorials
 To run one of our tutorials, you should import the states from the corresponding package in the [main](/main.py) file.
 For instance, to run the [hellow_world](tutorials/hello_world) tutorial, you can use the following steps.  
